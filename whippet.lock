@@ -19,7 +19,7 @@
         {
             "name": "co-authors-plus",
             "src": "git@git.govpress.com:wordpress-plugins/co-authors-plus",
-            "revision": "a4f90b686a03a52b829ea2131ac700da799d1164"
+            "revision": "29363592dc37623fe95417ca13a2f1ba183da26d"
         },
         {
             "name": "wp-to-twitter",
