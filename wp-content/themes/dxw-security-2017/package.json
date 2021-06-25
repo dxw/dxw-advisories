@@ -18,6 +18,6 @@
     "grunt-sass": "^3.1.0",
     "grunt-standard": "^3.2.0",
     "node-normalize-scss": "^8.1.2",
-    "node-sass": "^6.0.0"
+    "node-sass": "^6.0.1"
   }
 }
