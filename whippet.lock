@@ -19,12 +19,12 @@
         {
             "name": "co-authors-plus",
             "src": "git@git.govpress.com:wordpress-plugins/co-authors-plus",
-            "revision": "a4f90b686a03a52b829ea2131ac700da799d1164"
+            "revision": "a6b77f58f127281c8b25851a40c6ed4f45bf5c45"
         },
         {
             "name": "wp-to-twitter",
             "src": "git@git.govpress.com:wordpress-plugins/wp-to-twitter",
-            "revision": "4733d2883eee05771eb0d6a8a7f2cf471e750b33"
+            "revision": "721cd8bcbf34f365499e4e9164aef431d3ef2ea2"
         },
         {
             "name": "page-excerpt",
